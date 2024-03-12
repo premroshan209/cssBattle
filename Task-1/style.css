@@ -33,6 +33,8 @@ section {
 }
 header {
     padding: 10px;
+    display: flex;
+    justify-content: space-around;
 }
 a {
     text-decoration: none;
